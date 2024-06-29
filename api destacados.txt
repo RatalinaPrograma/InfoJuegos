@@ -1,0 +1,60 @@
+[
+    {
+        "name": "Red Dead Redemption 2",
+        "precio": "39.990",
+        "fecha": "5 Diciembre 2019",
+        "stock": "571",
+        "descrip": "Con más de 175 premios al Juego del año y más de 250 valoraciones perfectas, Red Dead Redemption 2 es la épica historia de Arthur Morgan y la banda de Van der Linde, que huyen por toda América en el albor de una nueva era. También incluye acceso al mundo multijugador compartido de Red Dead Online."
+    },
+    {
+        "name": "Rust",
+        "img": "https://jdigitales.cl/cdn/shop/products/image_571f9c0a-ad6b-48be-98d7-029e933e8f6d_740x.jpg?v=1621524536",
+        "precio": "17.900",
+        "fecha": "8 Febrero 2018",
+        "stock": "873",
+        "descrip": "El único objetivo en Rust es sobrevivir. Todo quiere que mueras: la vida salvaje de la isla y otros habitantes, el medio ambiente y otros supervivientes. Haz lo que sea necesario para durar una noche más."
+    },
+    {
+        "name": "Sons Of The Forest",
+        "img": "https://www.giantbomb.com/a/uploads/scale_medium/33/338034/3381991-2584519888-libra.jpg",
+        "precio": "15.500",
+        "fecha": "22 Febrero 2024",
+        "stock": "Stock: 2.174",
+        "descrip": "Enviado a buscar a un multimillonario desaparecido en una isla remota, te encuentras en un infierno infestado de caníbales. Crea, construye y lucha por sobrevivir, solo o con amigos, en este nuevo y aterrador simulador de terror y supervivencia de mundo abierto."
+    },
+   {
+        "name": "Project Zomboid",
+        "img": "https://pzwiki.net/w/images/8/87/Project_Zomboid_Cover.jpg",
+        "precio": "7.550 ",
+        "fecha": "8 Noviembre 2013",
+        "stock": "1.658",
+        "descrip": "Project Zomboid es el máximo en supervivencia zombie. Solo o en multijugador: saqueas, construyes, elaboras, luchas, cultivas y pescas en una lucha por sobrevivir. Un conjunto de habilidades de RPG hardcore, un mapa vasto, una caja de arena enormemente personalizable y un lindo mapache tutorial esperan al desprevenido. Entonces, ¿cómo morirás? Todo lo que se necesita es una mordida..."
+    },
+    {
+        "name": "Hogwarts Legacy",
+        "img": "https://mir-s3-cdn-cf.behance.net/project_modules/1400/5e248b105639481.5f7d9f64aa1a0.jpg",
+        "precio": "39.000",
+        "fecha": "0 Febrero 2023",
+        "stock": "579",
+        "descrip": "Hogwarts Legacy es un RPG inmersivo de acción en mundo abierto. Ahora puedes tomar el control de la acción y ser el centro de tu propia aventura en el mundo mágico."
+    },
+    {
+        "name": "Lethal Company",
+        "img": "https://static.tvtropes.org/pmwiki/pub/images/valheim.jpg",
+        "precio": "CLP $ 5.750",
+        "fecha": "Fecha de lanzamiento > 23 Octubre 2023",
+        "stock": "3.598",
+        "descrip": "Un juego de horror cooperativo sobre saquear lunas abandonadas para vender chatarra a la Compañía."
+    },
+    {
+        "name": "Grand Theft Auto V",
+        "img": "https://img.asmedia.epimg.net/resizer/v2/KVSSXZFDR5LT3FECONXPUDYSKU.jpg?auth=52f329a8894c704777d3a9a45ec1c56a00a5a21eb9dc954fd1abc3819978659d&width=1472&height=828&smart=true",
+        "precio": "15.550",
+        "fecha": "14 Abril 2015",
+        "stock": "6.956",
+        "descrip": "Grand Theft Auto V para PC ofrece a los jugadores la opción de explorar el galardonado mundo de Los Santos y el condado de Blaine con una resolución de 4K y disfrutar del juego a 60 fotogramas por segundo."
+    }
+]
+
+
+

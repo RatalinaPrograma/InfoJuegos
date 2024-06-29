@@ -1,0 +1,107 @@
+[
+    {
+      "name": "7 Days to Die",
+      "img": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/251570/capsule_616x353.jpg?t=1716824879",
+      "precio": "12.000",
+      "fecha": "13 Diciembre 2013",
+      "stock": "2.987",
+      "descrip": "7 Days to Die es un juego de mundo abierto que combina de forma extraordinaria juegos de disparos en primera persona, supervivencia de terror, defensa de torres y rol. Juega al primer RPG de supervivencia zombi de entorno abierto. ¡Navezgane te espera!"
+    },
+    {
+      "name": "Elder Ring",
+      "img": "https://p325k7wa.twic.pics/high/elden-ring/elden-ring/03-news/ER-SOTE-announcement.jpg?twic=v1/cover=500x556/step=10/quality=80",
+      "precio": "38.499",
+      "fecha": "24 Febrero 2022",
+      "stock": "1.159",
+      "descrip": "EL NUEVO JUEGO DE ROL Y ACCIÓN DE AMBIENTACIÓN FANTÁSTICA.
+	Álzate, Sinluz, y que la gracia te guíe para abrazar el poder del Círculo de Elden y encumbrarte como señor del Círculo en las Tierras Intermedias."
+    },
+    {
+      "name": "Terraria",
+      "img": "https://static.wikia.nocookie.net/terraria/images/2/2b/Portadaps3.jpg/revision/latest?cb=20180216123927&path-prefix=es",
+      "precio": "2.875",
+      "fecha": "16 Mayo 2011",
+      "stock": "2.174",
+      "descrip": "Cava, lucha, explora, construye! Nada es imposible en este juego de aventuras repleto de acción. El mundo es tu lienzo y la tierra misma es tu pintura.
+	¡Coge tus herramientas y adelante! Crea armas para deshacerte de una gran variedad de enemigos en numerosos ecosistemas. Excava profundo bajo tierra para encontrar accesorios, dinero y otras cosas muy útiles. Reúne recursos para crear todo lo que necesites y conformar así tu propio mundo. Construye una casa, un fuerte o incluso un castillo. La gente se mudará a vivir ahí e incluso quizás te vendan diferentes mercancías que te ayuden en tu viaje.
+	Pero ten cuidado, aún te aguardan más desafíos... ¿Estás preparado para la tarea?"
+    },
+    {
+      "name": "Valheim",
+      "img": "https://static.tvtropes.org/pmwiki/pub/images/valheim.jpg",
+      "precio": "7.700",
+      "fecha": "2 Febrero 2021",
+      "stock": "3.596",
+      "descrip": "Un guerrero muerto en batalla, las Valquirias llevaron su alma a Valheim, el décimo mundo nórdico. Rodeado de criaturas del caos y antiguos enemigos de los dioses, eres el guardián más joven del purgatorio primordial, encargado de matar a los viejos rivales de Odín y poner orden en Valheim.
+	Tus pruebas comienzan en el pacífico centro desarmado de Valheim, pero los dioses recompensan a los valientes y la gloria te aguarda. Aventúrate a través de bosques imponentes y montañas cubiertas de nieve, explora y recolecta materiales valiosos para crear armas más letales, armaduras más resistentes, fortalezas vikingas y puestos de avanzadilla. Construye un poderoso barco y navega por los grandes océanos en busca de tierras exóticas... pero ten cuidado de navegar demasiado lejos..."
+    },
+    {
+      "name": "Project Zomboid",
+      "img": "https://pzwiki.net/w/images/8/87/Project_Zomboid_Cover.jpg",
+      "precio": "7.550 ",
+      "fecha": "8 Noviembre 2013",
+      "stock": "1.658",
+      "descrip": "Project Zomboid es el máximo en supervivencia zombie. Solo o en multijugador: saqueas, construyes, elaboras, luchas, cultivas y pescas en una lucha por sobrevivir. Un conjunto de habilidades de RPG hardcore, un mapa vasto, una caja de arena enormemente personalizable y un lindo mapache tutorial esperan al desprevenido. Entonces, ¿cómo morirás? Todo lo que se necesita es una mordida..."
+    },
+    {
+      "name": "Terraria",
+      "img": "https://static.wikia.nocookie.net/terraria/images/2/2b/Portadaps3.jpg/revision/latest?cb=20180216123927&path-prefix=es",
+      "precio": "2.875",
+      "fecha": "16 Mayo 2011",
+      "stock": "2.174",
+      "descrip": "Cava, lucha, explora, construye! Nada es imposible en este juego de aventuras repleto de acción. El mundo es tu lienzo y la tierra misma es tu pintura.
+	¡Coge tus herramientas y adelante! Crea armas para deshacerte de una gran variedad de enemigos en numerosos ecosistemas. Excava profundo bajo tierra para encontrar accesorios, dinero y otras cosas muy útiles. Reúne recursos para crear todo lo que necesites y conformar así tu propio mundo. Construye una casa, un fuerte o incluso un castillo. La gente se mudará a vivir ahí e incluso quizás te vendan diferentes mercancías que te ayuden en tu viaje.
+	Pero ten cuidado, aún te aguardan más desafíos... ¿Estás preparado para la tarea?"
+    },
+{
+      "name": "The Elder Scrolls V: Skyrim Special Edition",
+      "img": "https://static.wikia.nocookie.net/videojuego/images/c/c9/The_Elder_Scrolls_V_-_Skyrim_Legendary_Edition.jpg/revision/latest?cb=20211021124258",
+      "precio": "5.398 ",
+      "fecha": "27 Octubre 2016",
+      "stock": "1.893",
+      "descrip": "The Elder Scrolls V: Skyrim Special Edition, ganador de más de 200 premios al “Juego del año”, da vida a la fantasía épica con un nivel de detalle asombroso. La Special Edition incluye el juego aclamado por la crítica y complementos con nuevas funcionalidades."
+    },
+    {
+      "name": "Hogwarts Legacy",
+      "img": "https://mir-s3-cdn-cf.behance.net/project_modules/1400/5e248b105639481.5f7d9f64aa1a0.jpg",
+      "precio": "39.000",
+      "fecha": "10 Febrero 2023",
+      "stock": "579",
+      "descrip": "Hogwarts Legacy es un RPG inmersivo de acción en mundo abierto. Ahora puedes tomar el control de la acción y ser el centro de tu propia aventura en el mundo mágico."
+    },
+    {
+      "name": "Raft",
+      "img": "https://static.wikia.nocookie.net/terraria/images/2/2b/Portadaps3.jpg/revision/latest?cb=20180216123927&path-prefix=es",
+      "precio": "2.875",
+      "fecha": "20 Junio 2022 ",
+      "stock": "9.500",
+      "descrip": "Raft te lanza a ti y a tus amigos a una épica aventura oceánica. Solos o juntos, los jugadores luchan por sobrevivir en un peligroso viaje a través de un vasto mar. Recolecta escombros, explora arrecifes y construye tu propio hogar flotante, ¡pero ten cuidado con los tiburones devoradores de hombres!"
+    },
+    {
+      "name": "Lethal Company",
+      "img": "https://static.tvtropes.org/pmwiki/pub/images/valheim.jpg",
+      "precio": "5.750",
+      "fecha": "23 Octubre 2023",
+      "stock": "3.596",
+      "descrip": "Un juego de horror cooperativo sobre saquear lunas abandonadas para vender chatarra a la Compañía."
+    },
+    {
+      "name": "EA SPORTS FC 24",
+      "img": "https://m.media-amazon.com/images/M/MV5BNWIwYjMwNTItNjAwNy00ZDhjLTlkMTMtMzdmNjIwZTZiMzg3XkEyXkFqcGdeQXVyMTA0MTM5NjI2._V1_QL75_UX190_CR0,2,190,281_.jpg",
+      "precio": "55.900 ",
+      "fecha": "29 Septiembre 2023",
+      "stock": "5.987",
+      "descrip": "EA SPORTS FC 24 te da la bienvenida a The World's Game: la experiencia futbolística más fiel hasta la fecha con HyperMotionV, PlayStyles optimizado por Opta y el motor mejorado de Frostbite™."
+    },
+    {
+      "name": "Grand Theft Auto V",
+      "img": "https://static.wikia.nocookie.net/esgta/images/1/1b/Car%C3%A1tula_GTA_V.jpg/revision/latest?cb=20130402191528",
+      "precio": "2.875",
+      "fecha": "14 Abril 2015",
+      "stock": "6.956",
+      "descrip": "Grand Theft Auto V para PC ofrece a los jugadores la opción de explorar el galardonado mundo de Los Santos y el condado de Blaine con una resolución de 4K y disfrutar del juego a 60 fotogramas por segundo."
+    }
+  ]
+
+
+
